@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ZoomAnimation</string>
+    <string name="dog">Dog</string>
+    <string name="zoom_dog">zoom dog</string>
 </resources>
